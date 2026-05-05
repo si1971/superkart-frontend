@@ -7,6 +7,7 @@ st.title("SuperKart Sales Revenue Prediction")
 st.write("Enter product and store details to forecast product-store sales revenue.")
 
 # Backend API URL
+#API_URL = "https://shibuittoop-superkart-backend-api.hf.space/predict"
 API_URL = "https://shibuittoop-superkart-backend-api.hf.space/predict"
 # If your backend URL is different, replace the above URL with the correct one.
 
